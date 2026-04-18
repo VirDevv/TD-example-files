@@ -9,13 +9,6 @@ You can:
 --modify and adapt them
 --reuse parts in your own projects
 
-
-License
-This repository is licensed under the MIT License.
-This means you are free to:
---use the files for personal or commercial work
---modify and redistribute them
-
 Suggestions and contributions are welcome.
 
 Created by VvirDev (Malena Goya)

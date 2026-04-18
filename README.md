@@ -23,7 +23,7 @@ Created by VvirDev (Malena Goya)
 This repository is part of an ongoing exploration of procedural systems, real-time visuals, and hybrid digital practices. 
 Linked to an academic research about open source communities in new media art field
 
-ig: [https://instagram.com/yourprofile](https://www.instagram.com/vvirdev/)
-YouTube: [https://linktr.ee/yourname](https://www.youtube.com/@VvirDev)
+ig: [vvirdev](https://www.instagram.com/vvirdev/)
+YouTube: [VvirDev](https://www.youtube.com/@VvirDev)
 
 

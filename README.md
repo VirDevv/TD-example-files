@@ -9,7 +9,6 @@ You can:
 --modify and adapt them
 --reuse parts in your own projects
 
-These examples are meant to be hands-on learning tools, so experimentation is encouraged.
 
 License
 This repository is licensed under the MIT License.
@@ -23,7 +22,7 @@ Created by VvirDev (Malena Goya)
 This repository is part of an ongoing exploration of procedural systems, real-time visuals, and hybrid digital practices. 
 Linked to an academic research about open source communities in new media art field
 
-ig: [vvirdev](https://www.instagram.com/vvirdev/)
-YouTube: [VvirDev](https://www.youtube.com/@VvirDev)
+[Instagram](https://www.instagram.com/vvirdev/)
+[Youtube](https://www.youtube.com/@VvirDev)
 
 

@@ -1,7 +1,7 @@
 # TD-example-files
 Some example files and techniques
 
-This repository is a collection of TouchDesigner example files I made for courses or learning myself. Focused on understanding how different operators work through simple, modular experiments.
+I put here some TouchDesigner projects from my process of experimenting, trial and error, some files I prepare for courses… a bit of everything. A little bit messy but hopefully useful for someone.
 
 Feel free to:
 --open and explore the files

@@ -1,7 +1,7 @@
 # TD-example-files
 Some example files and techniques
 
-I put here some TouchDesigner projects from my process of experimenting, trial and error, some files I prepare for courses… a bit of everything. A little bit messy but hopefully useful for someone.
+I put here some TouchDesigner projects from my process of experimenting, unfinished ideas, some files I prepare for courses… a bit of everything. A little bit messy but hopefully useful for someone.
 
 Feel free to:
 --open and explore the files

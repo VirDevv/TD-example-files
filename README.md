@@ -10,7 +10,7 @@ Feel free to:
 
 Suggestions and contributions are welcome.
 
-Created by VvirDev (Malena Goya)
+Created by VirDev (Malena Goya)
 This repository is part of an ongoing exploration of procedural systems, real-time visuals, and hybrid digital practices. 
 
 You can support me here: 
